@@ -1,0 +1,5 @@
+---
+- src: https://github.com/v13abh/ansible-role-gitlab
+  version: master
+  name: v13abh.gitlab
+
