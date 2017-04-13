@@ -22,5 +22,5 @@ This Ansible Playbook will install Gitlab  using an Ansible Role
 
 	"ansible-playbook gitlab.yml (Add -vvv for verbose installation.)"
 
-5. Point your browser to the URL configured in my-vars.yml. You will be prompted to change the password for the Root account.
+5. Point your browser to the HTTPS URL configured in my-vars.yml. (This would be the gitlab_dn_prefix.gitlab_dn_suffix) You will be prompted to change the password for the Root account.
 
